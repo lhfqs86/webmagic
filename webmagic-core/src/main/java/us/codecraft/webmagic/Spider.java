@@ -716,7 +716,7 @@ public class Spider implements Runnable, Task {
         if (uuid != null) {
             return uuid;
         }
-        if (site != null) {
+        if (site != null && site.getDomain() != null) {
             return site.getDomain();
         }
         uuid = UUID.randomUUID().toString();
