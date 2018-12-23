@@ -113,7 +113,7 @@ Documents: [http://webmagic.io/docs/](http://webmagic.io/docs/)
 The architecture of webmagic (refered to [Scrapy](http://scrapy.org/))
 
 ![image](http://code4craft.github.io/images/posts/webmagic.png)
-
+![image](https://github.com/lihongcoding/webmagic/blob/master/%E7%88%AC%E8%99%AB%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B%20.png)
 There are more examples in `webmagic-samples` package.
 
 ### Lisence:
